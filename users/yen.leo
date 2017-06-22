@@ -314,12 +314,12 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="yen.20161016023122.2"># 網際網路
 
-#製作網路線 及跳線​
-#組伺服主機  電腦硬體的認識​
-#組好電腦安裝ubuntu​
-#用putty建立ssh遠操控伺服主機(ipv6 [2001:288:6004:17:1810::37] )wcmg2​
-#建立fossil和cmsimfly​
-#用proxy當雙跳板ipv4/ipv6
+##製作網路線 及跳線​
+##組伺服主機  電腦硬體的認識​
+##組好電腦安裝ubuntu​
+##用putty建立ssh遠操控伺服主機(ipv6 [2001:288:6004:17:1810::37] )wcmg2​
+##建立fossil和cmsimfly​
+##用proxy當雙跳板ipv4/ipv6
 
 </t>
 <t tx="yen.20161022111056.1">@language python
